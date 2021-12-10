@@ -1,4 +1,4 @@
-baseURL: "https://codewithasm.net/"
+baseURL: "https://blog.alvifsandana.me/"
 title: Code with ASM
 paginate: 5
 theme: PaperMod
@@ -74,9 +74,9 @@ params:
 
     socialIcons:
         - name: twitter
-          url: "https://twitter.com/"
+          url: "https://twitter.com/siDandott"
         - name: github
-          url: "https://github.com/"
+          url: "https://github.com/AlvifSandana"
 
     analytics:
         google:
@@ -91,10 +91,10 @@ params:
         hiddenInList: true # hide on list pages and home
         hiddenInSingle: true # hide on single page
 
-    editPost:
-        URL: "https://github.com/<path_to_repo>/content"
-        Text: "Suggest Changes" # edit text
-        appendFilePath: true # to append file path to Edit link
+    #editPost:
+    #    URL: "https://github.com/<path_to_repo>/content"
+    #    Text: "Suggest Changes" # edit text
+    #    appendFilePath: true # to append file path to Edit link
 
     # for search
     # https://fusejs.io/api/options.html
