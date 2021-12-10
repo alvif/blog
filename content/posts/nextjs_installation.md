@@ -110,4 +110,4 @@ So far, we get:
 * Static generation and server-side rendering of `./pages/`
 * Static file serving. `./public/` is mapped to `/`
 
-Read the docs for more information and happy coding ❤
+Read the (docs)[https://nextjs.org/docs/getting-started] for more information and happy coding ❤
