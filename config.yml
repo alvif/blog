@@ -18,7 +18,7 @@ params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: CodewithASM
     description: "Code Your Life :)"
-    keywords: [Blog, Portfolio, PaperMod]
+    keywords: [Blog, Portfolio, Notes]
     author: ["Me", "Alvif Sandana Mahardika"]
     # author: ["Me", "You"] # multiple authors
     images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -70,7 +70,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Hi there \U0001F44B"
-        Content: Welcome to my blog
+        Content: Welcome to my blog. Happy reading, happy coding ;)
 
     socialIcons:
         - name: twitter
