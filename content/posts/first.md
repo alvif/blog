@@ -6,7 +6,7 @@ date: 2021-10-29T21:51:28+07:00
 tags: ["mysql"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
-showToc: false
+showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
