@@ -35,12 +35,12 @@ python3 -m http.server
 
 If we want the server run on specific port, run the following command instead (custom port, for example 2408):
 ```sh
-python3 -m http.server 8080
+python3 -m http.server 2408
 ```
 
 We will see following output when server successfully launched:
 ```sh
-Serving HTTP on 0.0.0.0 port 2408 (http://0.0.0.0/2408/) ...
+Serving HTTP on 0.0.0.0 port 2408 (http://0.0.0.0:2408/) ...
 ```
 
 We can access it in browser with URL mentioned OR if we want to access from **different device**, check
