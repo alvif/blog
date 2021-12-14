@@ -190,8 +190,10 @@ py -m flask run # windows
 ```
 
 Output:
+
 ![Run Flask](/images/flask_run.png#center)
 
 Browser preview:
+
 ![Flask in browser](/images/flask_run_browser.png#center)
 ---
